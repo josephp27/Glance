@@ -1,0 +1,17 @@
+github.com/BurntSushi/xgb v0.0.0-20210121224620-deaf085860bc h1:7D+Bh06CRPCJO3gr2F7h1sriovOZ8BMhca2Rg85c2nk=
+github.com/BurntSushi/xgb v0.0.0-20210121224620-deaf085860bc/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
+github.com/cretz/go-scrap v0.0.0-20200312194224-54530fbef1b2 h1:97zjv50XCYl6M++ID56PsKZcpsbT2fnSK5FFGnnFTmI=
+github.com/cretz/go-scrap v0.0.0-20200312194224-54530fbef1b2/go.mod h1:bKL34LoGmxild9fWEyNFYu/PwOsJiI+Jv7r/R9HVLSQ=
+github.com/gen2brain/shm v0.0.0-20200228170931-49f9650110c5 h1:Y5Q2mEwfzjMt5+3u70Gtw93ZOu2UuPeeeTBDntF7FoY=
+github.com/gen2brain/shm v0.0.0-20200228170931-49f9650110c5/go.mod h1:uF6rMu/1nvu+5DpiRLwusA6xB8zlkNoGzKn8lmYONUo=
+github.com/gen2brain/x264-go v0.0.0-20200605131102-0523307cbe23 h1:/bEJAMYC2kdJwLeemSoFiEir0ONJdBdK7sMdLMKBQHU=
+github.com/gen2brain/x264-go v0.0.0-20200605131102-0523307cbe23/go.mod h1:17kvfYQKi9/QHiKPeqmJW0YuDPZEgy72tSBVmweSyiE=
+github.com/kbinani/screenshot v0.0.0-20210326165202-b96eb3309bb0 h1:lICR2wyk9J6T709NawrhNTDi9DjMIbQqdlPT/EE0xBI=
+github.com/kbinani/screenshot v0.0.0-20210326165202-b96eb3309bb0/go.mod h1:ZceVWGtzUZmxyN+/1I+oG31oOm1dOA2QUNbua9TLVdE=
+github.com/lxn/win v0.0.0-20210218163916-a377121e959e h1:H+t6A/QJMbhCSEH5rAuRxh+CtW96g0Or0Fxa9IKr4uc=
+github.com/lxn/win v0.0.0-20210218163916-a377121e959e/go.mod h1:KxxjdtRkfNoYDCUP5ryK7XJJNTnpC8atvtmTheChOtk=
+github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646 h1:zYyBkD/k9seD2A7fsi6Oo2LfFZAehjjQMERAvZLEDnQ=
+github.com/nfnt/resize v0.0.0-20180221191011-83c6a9932646/go.mod h1:jpp1/29i3P1S/RLdc7JQKbRpFeM1dOBd8T9ki5s+AY8=
+golang.org/x/sys v0.0.0-20201018230417-eeed37f84f13/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.0.0-20210326220804-49726bf1d181 h1:64ChN/hjER/taL4YJuA+gpLfIMT+/NFherRZixbxOhg=
+golang.org/x/sys v0.0.0-20210326220804-49726bf1d181/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
